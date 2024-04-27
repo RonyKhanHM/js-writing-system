@@ -1,0 +1,32 @@
+===================js version:========================
+ES-5
+ES-6
+full form : ECMAScript
+
+
+==================Way of writing javascript===========
+1. inline
+2. internal
+3. external
+
+==================way of writing varible==============
+1. Genaral way
+2. using var
+3. using let
+4. using const  (Chironton shotto man. ja change kora jabena.
+jemon: pi=3.1416, g=9.8g etc)
+
+===============Ruls of Declaring Varible=======================
+
+accept: 
+x, y, z, rony, ronyKhan, rony1, rony_khan
+
+not-accept: 
+Rony khan, rony-khan, 1rony, rony@(any special charecter)
+
+
+===============Operator=======================
+1. Arithmetic operator: (+, -, *, /, %, ++, --,)
+2. Assigment Operator: (=, +=, -=,)
+3. Logical Operator: (||, &&, !)
+4. Relational/Comparision Operator: (>, <, >=, <=, !=, ==, ===)
